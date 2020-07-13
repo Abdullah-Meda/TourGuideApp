@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+
+    <string name="adventures">ADVENTURES</string>
+    <string name="attractions">ATTRACTIONS</string>
+    <string name="restaurants">RESTAURANTS</string>
+    <string name="hotels">HOTELS</string>
+
+    <string name="MOTIONGATE">MOTIONGATE™</string>
+    <string name="MOTIONGATE_emirate">Dubai</string>
+    <string name="MOTIONGATE_description">MOTIONGATE™ Dubai, part of Dubai Parks and Resorts, is the largest Hollywood-inspired theme park in the Middle East, uniting three Hollywood studios for the first time – Sony Pictures Studios including the Smurfs, DreamWorks Animation and Lionsgate. Featuring 27 immersive rides and attractions, 15 live entertainment experiences, 9 themed restaurants and 15 themed retail outlets, MOTIONGATE™ Dubai brings to life 13 of Hollywood’s most beloved blockbuster films. \n \n Motiongate Dubai is a Hollywood-inspired theme park located in Dubai Parks and Resorts, Dubai, United Arab Emirates, showcasing themed areas and attractions based on DreamWorks Animation, Columbia Pictures, Lionsgate, and The Smurfs and was opened on December 16, 2016.</string>
+    <string name="MOTIONGATE_website">https://www.motiongatedubai.com/en</string>
+    <string name="MOTIONGATE_phone">800 2629464</string>
+
+    <string name="Ferrari_World">Ferrari World</string>
+    <string name="Ferrari_World_emirate">Abu Dhabi</string>
+    <string name="Ferrari_World_website">https://www.ferrariworldabudhabi.com/</string>
+    <string name="Ferrari_World_phone">600 511115</string>
+    <string name="Ferrari_World_description">Ferrari World Abu Dhabi is a mostly indoors amusement park on Yas Island in Abu Dhabi, United Arab Emirates. It is the first Ferrari-branded theme park and has the record for the largest space frame structure ever built. Formula Rossa, the world\'s fastest roller coaster, is also located here.</string>
+
+    <string name="IMG">IMG Worlds of Adventure</string>
+    <string name="IMG_emirate">Dubai</string>
+    <string name="IMG_description">IMG Worlds of Adventure is an indoor amusement park in the United Arab Emirates in Dubai. It is Dubai\'s first mega themed entertainment destination. The park is divided into five \"epic zones\".</string>
+    <string name="IMG_website">https://www.imgworlds.com/language/en/#</string>
+    <string name="IMG_phone">+971 4 403 8888</string>
+
+    <string name="Legoland">Legoland®</string>
+    <string name="Legoland_emirate">Dubai</string>
+    <string name="Legoland_description">LEGOLAND® Dubai and LEGOLAND® Water Park are the ultimate year-round theme park destination in the Middle East for families with children from 2-12. LEGOLAND® Dubai and LEGOLAND® Water Park are hands-on experiences allowing families to take part in a full day LEGO® themed adventures through interactive rides, water slides, models and building experiences.</string>
+    <string name="Legoland_website">https://www.legoland.com/dubai/</string>
+    <string name="Legoland_phone">+971 4 820 0000</string>
+
+    <string name="Yas_Waterworld">Yas Waterworld</string>
+    <string name="Yas_Waterworld_emirate">Abu Dhabi</string>
+    <string name="Yas_Waterworld_description">Yas Waterworld Abu Dhabi is an Emirati-themed waterpark located on Yas Island in Abu Dhabi, United Arab Emirates, the park is home to more than 40 rides, slides and attractions, including Bubble’s Barrel, Rush Rider, and Bandit Bomber which is the longest suspended roller coaster in the Middle East over 550 metres long.</string>
+    <string name="Yas_Waterworld_website">https://www.yaswaterworld.com/en</string>
+    <string name="Yas_Waterworld_phone">+971 2 414 2000</string>
+
+    <string name="Wild_Wadi_Waterpark">Wild Wadi Waterpark</string>
+    <string name="Wild_Wadi_Waterpark_emirate">Dubai</string>
+    <string name="Wild_Wadi_Waterpark_description">The Wild Wadi Water Park is an outdoor water park in Dubai, United Arab Emirates. Situated in the area of Jumeirah, next to the Burj Al Arab and the Jumeirah Beach Hotel, the water park is operated by Jumeirah International, a Dubai-based hotelier.</string>
+    <string name="Wild_Wadi_Waterpark_website">https://www.jumeirah.com/en/hotels-resorts/dubai/wild-wadi/</string>
+    <string name="Wild_Wadi_Waterpark_phone">+971 4 348 4444</string>
+
+    <string name="Ice_Land_Water_Park">Ice Land Water Park</string>
+    <string name="Ice_Land_Water_Park_emirate">Ras al Khaimah</string>
+    <string name="Ice_Land_Water_Park_description">Water park with ice-themed scenery and high-speed slides plus a wave pool, bathing zone and kids</string>
+    <string name="Ice_Land_Water_Park_website">https://www.emessatourism.com/index.php/en/theme-parks/ice-land-water-park</string>
+    <string name="Ice_Land_Water_Park_phone">+971 7 2067888</string>
+
+    <string name="Burj_Khalifa">Burj Khalifa</string>
+    <string name="Burj_Khalifa_emirate">Dubai</string>
+    <string name="Burj_Khalifa_description">The Burj Khalifa, known as the Burj Dubai prior to its inauguration in 2010, is a skyscraper in Dubai, United Arab Emirates. With a total height of 829.8 m and a roof height of 828 m, the Burj Khalifa has been the tallest structure and building in the world since its topping out in 2009.</string>
+    <string name="Burj_Khalifa_website">https://www.burjkhalifa.ae/en/index.aspx</string>
+    <string name="Burj_Khalifa_phone">04 888 8888</string>
+
+    <string name="Burj_Al_Arab">Burj Al Arab</string>
+    <string name="Burj_Al_Arab_emirate">Dubai</string>
+    <string name="Burj_Al_Arab_description">The Burj Al Arab is a luxurious 5 star hotel located in the city of Dubai, United Arab Emirates. One of the tallest hotels in the world, it is the seventh tallest, although 39% of its total height is made up of non-occupiable space. Burj Al Arab stands on an artificial island 280 m from Jumeirah Beach and is connected to the mainland by a private curving bridge. The shape of the structure is designed to resemble the sail of a ship. It has a helipad near the roof at a height of 210 m above ground.</string>
+    <string name="Burj_Al_Arab_website">https://www.jumeirah.com/en/stay/dubai/burj-al-arab-jumeirah</string>
+    <string name="Burj_Al_Arab_phone">04 301 7777</string>
+
+    <string name="The_Dubai_Mall">The Dubai Mall</string>
+    <string name="The_Dubai_Mall_emirate">Dubai</string>
+    <string name="The_Dubai_Mall_description">The Dubai Mall is a shopping mall in Dubai. It is the second largest mall by total land area, and the 26th-largest shopping mall in the world by gross leasable area, tying with West Edmonton Mall and Fashion Island —both of which are older than it. It has a total retail floor area of 502,000 square metres.</string>
+    <string name="The_Dubai_Mall_website">https://thedubaimall.com/</string>
+    <string name="The_Dubai_Mall_phone">800 382246255</string>
+
+    <string name="Sheikh_Zayed_Grand_Mosque">Sheikh Zayed Grand Mosque</string>
+    <string name="Sheikh_Zayed_Grand_Mosque_emirate">Abu Dhabi</string>
+    <string name="Sheikh_Zayed_Grand_Mosque_description">The Sheikh Zayed Grand Mosque is located in Abu Dhabi, the capital city of the United Arab Emirates. The largest mosque in the country, it is the key place of worship for daily, Friday and Eid prayers. During Eid, it may be visited by more than 41,000 people.</string>
+    <string name="Sheikh_Zayed_Grand_Mosque_website">https://www.szgmc.gov.ae/en/Home</string>
+    <string name="Sheikh_Zayed_Grand_Mosque_phone">02 419 1919</string>
+
+    <string name="Emirates_Palace">Emirates Palace</string>
+    <string name="Emirates_Palace_emirate">Abu Dhabi</string>
+    <string name="Emirates_Palace_description">The Emirates Palace is a luxury five star hotel in Abu Dhabi, United Arab Emirates operated by Mandarin Oriental as of 1 January 2020. The hotel project was started on December 2001. and was initially operated by Kempinski from opening in November 2005 until 1 January 2020. Due to the change in management, the Palace will be renovated over the course of two years, after which it will be fully rebranded as a Mandarin Oriental property.</string>
+    <string name="Emirates_Palace_website"><![CDATA[https://www.mandarinoriental.com/abu-dhabi/emirates-palace/luxury-hotel?htl=EPAUH&eng=yext&src=local]]></string>
+    <string name="Emirates_Palace_phone">06 556 6778</string>
+
+    <string name="Palm_Jumeirah">Palm Jumeirah</string>
+    <string name="Palm_Jumeirah_emirate">Dubai</string>
+    <string name="Palm_Jumeirah_description">The tree-shaped Palm Jumeirah island is known for glitzy hotels, posh apartment towers and upmarket global restaurants. Food trucks offering snacks like shawarma dot the Palm Jumeirah Boardwalk, popular for its views of the Dubai coastline and the sail-shaped Burj Al Arab hotel. Beach clubs with spas and infinity pools turn into boisterous nightclubs with live DJs in the evening.</string>
+    <string name="Palm_Jumeirah_website">https://palmjumeirah.fivehotelsandresorts.com/</string>
+    <string name="Palm_Jumeirah_phone">+971 4 455 9999</string>
+
+    <string name="The_Dubai_Fountain">The Dubai Fountain</string>
+    <string name="The_Dubai_Fountain_emirate">Dubai</string>
+    <string name="The_Dubai_Fountain_description">The Dubai Fountain is a choreographed fountain system located on the 12 hectare manmade Burj Khalifa Lake, at the center of the Downtown Dubai development in Dubai, United Arab Emirates. It was designed by WET Design, a California-based company also responsible for the fountains at the Bellagio Hotel Lake in Las Vegas. Illuminated by 6,600 lights and 50 colored projectors, it is 275 m long and shoots water up to 500 ft into the air accompanied by a range of classical to contemporary Arabic and world music. It was built at a cost of AED 800 million. The name of the fountain was chosen after a contest organized by the developer Emaar Properties, the result of which was announced on 26 October 2008</string>
+    <string name="The_Dubai_Fountain_website"><![CDATA[https://properties.emaar.com/en/our-communities/downtown-dubai/?utm_source=google&utm_campaign=local_search&utm_medium=organic]]></string>
+    <string name="The_Dubai_Fountain_phone">04 567 2030</string>
+
+    <string name="Dubai_Marina">Dubai Marina</string>
+    <string name="Dubai_Marina_emirate">Dubai</string>
+    <string name="Dubai_Marina_description">Dubai Marina is an affluent residential neighborhood known for The Beach at JBR, a leisure complex with al fresco dining and sandy stretches to relax on. Smart cafes and pop-up craft markets line waterside promenade Dubai Marina Walk, while Dubai Marina Mall is packed with chain and luxury fashion brands. Upscale yachts cruise through the large man-made marina, where activities range from jet-skiing to skydiving.</string>
+    <string name="Dubai_Marina_website">www.dubai-marina.com</string>
+    <string name="Dubai_Marina_phone">+971 4 436 1020</string>
+
+    <string name="One_Only_The_Palm"><![CDATA[One&Only The Palm]]></string>
+    <string name="One_Only_The_Palm_emirate">Dubai</string>
+    <string name="One_Only_The_Palm_description">"On a beachfront peninsula on the iconic Palm Jumeirah, this opulent luxury resort on the Gulf is set in gardens and comprises a manor, mansions and villas. \n \n Plush rooms and suites offer free Wi-Fi, entertainment systems and living areas, plus grand bathrooms with free-standing tubs. All have verandas with garden or gulf views. Some add butlers. Bi-level, 2-bedroom villas on the beach feature bars and private pools. \n \n Breakfast is available. Dining options include a swanky overwater lounge with city views, and 2 restaurants by Yannick Alléno. There's a spa, a gym, a private beach, a marina and a kids' club, as well as 2 pools and tennis."</string>
+    <string name="One_Only_The_Palm_website"><![CDATA[https://www.oneandonlyresorts.com/the-palm?utm_source=GMBlisting&utm_medium=organic&utm_campaign=ootp-the-palm-gmb]]></string>
+    <string name="One_Only_The_Palm_phone">04 440 1010</string>
+
+    <string name="Raffles">Raffles</string>
+    <string name="Raffles_emirate">Dubai</string>
+    <string name="Raffles_description">Set amid tropical gardens, this pyramid-shaped luxury hotel is connected to the WAFI Mall, and is 4 km from Dubai World Trade Centre. \n \n Featuring butler service, floor-to-ceiling windows and balconies with city views, the refined rooms with Middle Eastern details offer free Wi-Fi, HDTVs and sitting areas. Club quarters include breakfast. Ultrachic suites add living rooms and high-end linens; some have kitchenettes and/or private elevator access. \n \nThere are 7 chic eateries/bars including Japanese and Italian options. Other amenities include a top-floor nightclub, a pool with a swim-up bar, plus a spa, a gym and a ballroom. Parking is free.</string>
+    <string name="Raffles_website">https://www.raffles.com/dubai/</string>
+    <string name="Raffles_phone">00 800 1723 3537</string>
+
+    <string name="Address_Dubai_Marina">Address Dubai Marina</string>
+    <string name="Address_Dubai_Marina_emirate">Dubai</string>
+    <string name="Address_Dubai_Marina_description">Connected to the Dubai Marina Mall, this upscale hotel is an 11-minute walk from the Dubai Marina Mall Tram Station.\n\n Warm, polished rooms feature floor-to-ceiling windows with city or marina views, and come with free Wi-Fi, flat-screen TVs and iPads, as well as tea and coffeemaking facilities; some offer balconies. Suites have separate living areas, while upgraded suites add private-lounge access, breakfast and snacks. There are also residential-style apartments.\n\n Amenities include an international restaurant with an open kitchen, and a terrace lounge with skyline views. There is also a rooftop pool, a 24-hour gym, a chic spa and a kids club.</string>
+    <string name="Address_Dubai_Marina_website">https://addresshotels.com/en/</string>
+    <string name="Address_Dubai_Marina_phone">04 436 7777</string>
+
+    <string name="The_Oberoi">The Oberoi</string>
+    <string name="The_Oberoi_emirate">Dubai</string>
+    <string name="The_Oberoi_description">Set in a glass high-rise overlooking the Burj Khalifa, this posh hotel is 3 km from The Dubai Mall and 4 km from water displays at The Dubai Fountain.\n\nFeaturing Italian marble bathrooms, living areas, and floor-to-ceiling windows with pool or city views, the contemporary rooms offer free Wi-Fi and flat-screen TVs. The 1- to 3-bedroom suites come with balconies, while upgraded suites have dining rooms, kitchenettes and plunge pools. Room service is provided 24/7.\n\nThere are 3 upscale restaurants, along with a late-night lounge, and a lobby with a gold-leaf ceiling and ornate chandeliers. There is also a chic spa, a gym and a heated outdoor pool.</string>
+    <string name="The_Oberoi_website"><![CDATA[https://www.oberoihotels.com/hotels-in-dubai/?utm_source=GMBlisting&utm_medium=organic]]></string>
+    <string name="The_Oberoi_phone">800-018-0600</string>
+
+    <string name="The_H">The H</string>
+    <string name="The_H_emirate">Dubai</string>
+    <string name="The_H_description">This upscale hotel is an 8-minute walk from the Dubai World Trade Centre, and 5 km from both the Dubai Mall, and the Burj Khalifa skyscraper and observation deck.\n\nThe sleek rooms come with free Wi-Fi, flat-screen TVs, floor-to-ceiling windows, and sitting areas. Upgraded suites and apartments feature access to a club lounge, plus separate living rooms, kitchenettes and/or terraces with private pools. Room service is available.\n\nAmenities include a 40th-floor rooftop cocktail bar and 3 other lounges, plus 6 restaurants including a British gastropub. There is also a gym, a posh spa and a business centre, as well as indoor and outdoor pools.</string>
+    <string name="The_H_website">https://www.hhoteldubai.com/</string>
+    <string name="The_H_phone">04 501 8888</string>
+
+</resources>
